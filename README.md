@@ -26,7 +26,11 @@ Ready-to-use file templates. Copy the file into your own repository and replace 
 
 **Ideas & Prompts**
 
-Working notes and prompt drafts. Nothing here yet. Entries land as they are written.
+Reusable prompts for directing AI agents. Copy the prompt into your own workflow and fill in the placeholders.
+
+| Prompt | Path | Description |
+|:---|:---|:---|
+| [Software Capabilities Audit](prompts/software-capabilities-audit.md) | [1](prompts/software-capabilities-audit.md) | Directs an AI agent to reverse-engineer an unknown tool purely from code and behavior: infer its purpose, catalog real capabilities, verify docs against reality, and report gaps, risks, and next steps. |
 
 </details>
 
